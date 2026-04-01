@@ -6,7 +6,7 @@ Welcome to my simple music website! This project showcases my passion for music 
 
 - *Clean and Responsive Design**: The website is designed to be visually appealing and works well on various devices.
 
-- **Song List**: Explore a curated list of my favorite songs. Each song is presented with its title and artist.
+- *Song List**: Explore a curated list of my favorite songs. Each song is presented with its title and artist.
 
 - **Easy Navigation**: Navigate through the website effortlessly with a simple and intuitive menu.
 
