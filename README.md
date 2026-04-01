@@ -4,7 +4,7 @@ Welcome to my simple music website! This project showcases my passion for music 
 
 ## Features
 
-- **Clean and Responsive Design**: The website is designed to be visually appealing and works well on various devices.
+- *Clean and Responsive Design**: The website is designed to be visually appealing and works well on various devices.
 
 - **Song List**: Explore a curated list of my favorite songs. Each song is presented with its title and artist.
 
